@@ -1,79 +1,145 @@
 # 👨‍💻 Mirodil Juraev
 
-### Backend Engineer | System Thinking | Django Ecosystem
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mirodil2022&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-I build backend systems with a focus on **stability, scalability, and real-world constraints**, not just features.
-
-> Most systems don’t fail because of bad code —  
-> they fail because architecture and constraints were ignored early.
+### ⚙️ Backend Engineer | Django | System Thinking
 
 ---
 
-## 🧠 What I Do
+## 🧠 About Me
 
-- Design and implement **backend architectures**
-- Build **REST APIs** using Django & FastAPI
-- Work with **Dockerized environments**
-- Optimize systems for **reliability and maintainability**
-- Translate business needs into **technical specifications (Technical Tasks)**
+- 🔭 Backend Engineer @ **Unicon.uz**
+- ⚙️ Building systems that **survive production, not just demos**
+- 🧩 I enjoy solving **unclear, constraint-heavy problems**
+
+> ⚡ Most systems fail not because of code —  
+> but because of poor architecture decisions early on.
+
+---
+
+## 🎮 Developer Profile
+
+```yaml
+Name: Mirodil
+Role: Backend Engineer
+Level: 7
+XP: ███████░░░
+Focus: System Design
+Current Mission: "Build scalable backend systems"
+Weakness: unclear requirements
+Buff: persistence + debugging
+```
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mirodil2022&theme=radical&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Core**
-- Python (Django, FastAPI)
-- REST API Design
-- MySQL / SQLite
+<p align="center">
 
-**Infrastructure**
-- Docker
-- Nginx
-- Gunicorn
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,docker,nginx,mysql,sqlite,nodejs,postman,figma&theme=dark" />
 
-**Additional**
-- JavaScript (Node.js basics)
-- Postman
-- Figma / Canva (for UI understanding, not just backend isolation)
+</p>
 
 ---
 
-## 📈 Current Focus
+## 📊 GitHub Analytics
 
-- Improving **system design & architecture thinking**
-- Writing **clear and scalable technical documentation**
-- Bridging gap between **business logic and backend systems**
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=Mirodil2022&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mirodil2022&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-## 🏢 Experience
+## 🔥 Contribution Streak
 
-- Backend Engineer @ *Unicon.uz*
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mirodil2022&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mirodil2022&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🎲 Terminal Mode
+
+```bash
+$ whoami
+> backend_engineer
+
+$ stack
+> django + docker + nginx
+
+$ current_problem
+> scaling + architecture
+
+$ deploy
+> success ✅
+
+$ reality_check
+> works locally, testing in production...
+```
+
+---
+
+## 🧪 Current Focus
+
+- System architecture design
+- Backend performance optimization
+- Writing clean technical specifications
+- Turning business chaos → structured backend logic
 
 ---
 
 ## 🌐 Connect
 
-- Instagram: https://instagram.com/dj_mirodil
+<p align="center">
+  <a href="https://instagram.com/dj_mirodil">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧭 Engineering Philosophy
 
-![Stats](https://github-readme-stats.shion.dev/api?username=Mirodil2022&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Streak](https://streak-stats.demolab.com/?user=Mirodil2022&theme=dark&hide_border=true)
-
----
-
-## ⚡ Philosophy
-
-I don’t optimize for:
-- “Looks complete”
+```diff
 - Over-engineering
-- Premature abstraction
+- Fake completeness
+- "It works on my machine"
 
-I optimize for:
-- Correct constraints
-- Clear architecture
-- Long-term stability
++ Clear constraints
++ Scalable architecture
++ Systems that survive real users
+```
+
+---
+
+## ⚡ Fun Fact
+
+> Debugging is just being a detective in a crime movie  
+> where you are also the criminal.
