@@ -47,6 +47,16 @@ I care about systems that **survive production, not just demos**: clear constrai
 
 ---
 
+### 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mirodil2022/Mirodil2022/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mirodil2022/Mirodil2022/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Mirodil2022/Mirodil2022/output/github-snake.svg" />
+</picture>
+
+---
+
 ### 🧪 Current focus
 
 - System architecture and backend performance
