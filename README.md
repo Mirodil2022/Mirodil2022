@@ -1,131 +1,61 @@
-# 👨‍💻 Mirodil Juraev
+<h1 align="center">Hi, I'm Mirodil Juraev 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mirodil2022&label=Profile%20views&color=0e75b6&style=flat" />
+  <b>Backend Engineer · Django & DRF · System Design</b><br/>
+  Building backend systems for government digital infrastructure in Uzbekistan 🇺🇿
 </p>
 
-### ⚙️ Backend Engineer | Django | System Thinking
-
----
-
-## 🧠 About Me
-
-- 🔭 Backend Engineer @ **Unicon.uz**
-- ⚙️ Building systems that **survive production, not just demos**
-- 🧩 I enjoy solving **unclear, constraint-heavy problems**
-
-> ⚡ Most systems fail not because of code —  
-> but because of poor architecture decisions early on.
-
----
-
-## 🎮 Developer Profile
-
-```yaml
-Name: Mirodil
-Role: Backend Engineer
-Level: 7
-XP: ███████░░░
-Focus: System Design
-Current Mission: "Build scalable backend systems"
-Weakness: unclear requirements
-Buff: persistence + debugging
-```
-
----
-
-## 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mirodil2022&theme=radical&no-frame=true&margin-w=10" />
+  <a href="https://www.linkedin.com/in/mirodil-juraev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/juraevmirodil"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:juraevmirodil@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## ⚙️ Tech Stack
+### 🧠 About me
+
+I'm a backend engineer at **[UNICON.UZ](https://unicon.uz)**, an IT and telecom research center under Uzbekistan's Ministry of Digital Technologies. I design and build Django/DRF services, write technical specifications, and turn messy business requirements into clear, maintainable backend logic.
+
+I care about systems that **survive production, not just demos**: clear constraints, sound architecture decided early, and code that the next developer can read.
+
+- 🔭 Working on education, documentation and PKI platforms at UNICON.UZ
+- 🤖 Building AI-powered side projects with Django, Celery and LLMs
+- 🌍 Working in Uzbek, Russian and English
+
+---
+
+### 🚀 Featured projects
+
+> Most of my work lives in private repositories. Here's what I've been building.
+
+| Project | What it is | Stack |
+|---|---|---|
+| **Leadly** | AI-assisted CRM: lead capture, pipeline management, with Meta (Instagram / Messenger / Lead Ads) integration in progress. Self-hosted on Oracle Cloud. | Python · Django · Docker · Nginx |
+| **AI Media Platform** | Pipeline that produces fact-checked long-form YouTube videos and Shorts, from research to script to publishing. | Django · Celery · Claude API |
+| **UNICON Education Platform** | REST API for an online learning platform: courses, schools, portfolios and auto-generated PDF certificates with QR verification. | Django REST Framework · ReportLab |
+| **UNICON internal systems** | Backends for documentation, PKI and monitoring services. | Django · DRF |
+| **Telegram bot** | Production Telegram bot running on my own Oracle Cloud server. | Python · Linux |
+
+---
+
+### 🛠 Tech stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,docker,nginx,mysql,sqlite,nodejs,postman,figma&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,docker,nginx,linux,mysql,sqlite,git,postman,nodejs,figma&perline=12" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+### 🧪 Current focus
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=Mirodil2022&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mirodil2022&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mirodil2022&theme=radical&hide_border=true" />
-</p>
+- System architecture and backend performance
+- Async task processing (Celery) and LLM integrations
+- Writing clear technical specifications and API docs
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mirodil2022&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 🎲 Terminal Mode
-
-```bash
-$ whoami
-> backend_engineer
-
-$ stack
-> django + docker + nginx
-
-$ current_problem
-> scaling + architecture
-
-$ deploy
-> success ✅
-
-$ reality_check
-> works locally, testing in production...
-```
-
----
-
-## 🧪 Current Focus
-
-- System architecture design
-- Backend performance optimization
-- Writing clean technical specifications
-- Turning business chaos → structured backend logic
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://instagram.com/dj_mirodil">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🧭 Engineering Philosophy
+### 🧭 Engineering philosophy
 
 ```diff
 - Over-engineering
@@ -133,13 +63,18 @@ $ reality_check
 - "It works on my machine"
 
 + Clear constraints
-+ Scalable architecture
++ Scalable, boring-in-a-good-way architecture
 + Systems that survive real users
 ```
 
----
+<details>
+<summary>⚡ <b>Fun fact</b></summary>
+<br/>
 
-## ⚡ Fun Fact
+> Debugging is like being the detective in a crime movie where you're also the criminal.
 
-> Debugging is just being a detective in a crime movie  
-> where you are also the criminal.
+```bash
+$ reality_check
+> works locally, testing in production...
+```
+</details>
